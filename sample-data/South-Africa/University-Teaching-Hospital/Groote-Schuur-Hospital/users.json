@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin.gsh",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Prof. Thabo Mokoena",
+    "email": "thabo.mokoena@gsh.za"
+  },
+  {
+    "username": "doctor.gsh",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Nomsa Dlamini",
+    "email": "nomsa.dlamini@gsh.za"
+  },
+  {
+    "username": "nurse.gsh",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Sipho Ndlovu",
+    "email": "sipho.ndlovu@gsh.za"
+  },
+  {
+    "username": "resident.gsh",
+    "password": "Resident123!",
+    "role": "Resident",
+    "fullName": "Dr. Zanele Khumalo",
+    "email": "zanele.khumalo@gsh.za"
+  }
+]

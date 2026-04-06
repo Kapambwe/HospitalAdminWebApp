@@ -1,0 +1,23 @@
+[
+  {
+    "username": "admin.clinic",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. Peter Mwale",
+    "email": "peter.mwale@kamwala.zm"
+  },
+  {
+    "username": "doctor.clinic",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Linda Tembo",
+    "email": "linda.tembo@kamwala.zm"
+  },
+  {
+    "username": "nurse.clinic",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Joyce Mutale",
+    "email": "joyce.mutale@kamwala.zm"
+  }
+]

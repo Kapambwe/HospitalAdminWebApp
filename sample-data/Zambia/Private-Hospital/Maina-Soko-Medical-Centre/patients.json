@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "PAT-001",
+    "patientNumber": "MS-2024-00001",
+    "firstName": "Mary",
+    "lastName": "Lungu",
+    "fullName": "Mary Lungu",
+    "dateOfBirth": "1985-04-02",
+    "age": 40,
+    "gender": "Female",
+    "bloodType": "AB-",
+    "phone": "+260 977 702 380",
+    "email": "mary.lungu@example.zm",
+    "address": "296 Nationalist Road, Lusaka",
+    "emergencyContact": {
+      "name": "Catherine Banda",
+      "relationship": "Child",
+      "phone": "+260 966 427 719"
+    },
+    "medicalConditions": [
+      "Type 2 Diabetes"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "ZSIC General Insurance",
+    "insuranceNumber": "INS-777156",
+    "nextOfKin": "Ruth Zulu",
+    "registrationDate": "2025-04-02",
+    "admissionDate": "2026-01-31",
+    "assignedDoctor": "STAFF-002",
+    "assignedDoctorName": "Dr. Michael Lungu",
+    "ward": "Pediatric",
+    "bedNumber": "PED-002"
+  },
+  {
+    "id": "PAT-002",
+    "patientNumber": "MS-2024-00002",
+    "firstName": "John",
+    "lastName": "Sichone",
+    "fullName": "John Sichone",
+    "dateOfBirth": "1965-04-09",
+    "age": 60,
+    "gender": "Male",
+    "bloodType": "O+",
+    "phone": "+260 977 843 693",
+    "email": "john.sichone@example.zm",
+    "address": "9 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Ruth Sakala",
+      "relationship": "Sibling",
+      "phone": "+260 966 723 206"
+    },
+    "medicalConditions": [
+      "Arthritis"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-655616",
+    "nextOfKin": "Benjamin Bwalya",
+    "registrationDate": "2025-02-14",
+    "admissionDate": "2026-02-01",
+    "assignedDoctor": "STAFF-002",
+    "assignedDoctorName": "Dr. Patrick Chanda",
+    "ward": "Pediatric",
+    "bedNumber": "PED-014"
+  },
+  {
+    "id": "PAT-003",
+    "patientNumber": "MS-2024-00003",
+    "firstName": "Michael",
+    "lastName": "Bwalya",
+    "fullName": "Michael Bwalya",
+    "dateOfBirth": "1979-09-25",
+    "age": 46,
+    "gender": "Male",
+    "bloodType": "O+",
+    "phone": "+260 977 961 275",
+    "email": "michael.bwalya@example.zm",
+    "address": "93 Nationalist Road, Lusaka",
+    "emergencyContact": {
+      "name": "Margaret Musonda",
+      "relationship": "Child",
+      "phone": "+260 966 397 829"
+    },
+    "medicalConditions": [
+      "Gastritis",
+      "Pregnancy Care",
+      "Meningitis"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "NHIMA (National Health Insurance)",
+    "insuranceNumber": "INS-265210",
+    "nextOfKin": "Beatrice Banda",
+    "registrationDate": "2025-01-21",
+    "admissionDate": "2026-02-07",
+    "assignedDoctor": "STAFF-006",
+    "assignedDoctorName": "Dr. Peter Musonda",
+    "ward": "Private",
+    "bedNumber": "PRI-013"
+  },
+  {
+    "id": "PAT-004",
+    "patientNumber": "MS-2024-00004",
+    "firstName": "Alice",
+    "lastName": "Chanda",
+    "fullName": "Alice Chanda",
+    "dateOfBirth": "1967-01-23",
+    "age": 59,
+    "gender": "Female",
+    "bloodType": "AB-",
+    "phone": "+260 977 798 545",
+    "email": "alice.chanda@example.zm",
+    "address": "190 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Alice Tembo",
+      "relationship": "Spouse",
+      "phone": "+260 966 256 142"
+    },
+    "medicalConditions": [
+      "Arthritis"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "Madison General Insurance",
+    "insuranceNumber": "INS-877101",
+    "nextOfKin": "Peter Mwansa",
+    "registrationDate": "2024-11-09",
+    "admissionDate": "2026-02-05",
+    "assignedDoctor": "STAFF-006",
+    "assignedDoctorName": "Dr. Sarah Lungu",
+    "ward": "Pediatric",
+    "bedNumber": "PED-010"
+  },
+  {
+    "id": "PAT-005",
+    "patientNumber": "MS-2024-00005",
+    "firstName": "Peter",
+    "lastName": "Chanda",
+    "fullName": "Peter Chanda",
+    "dateOfBirth": "1986-03-19",
+    "age": 39,
+    "gender": "Male",
+    "bloodType": "AB+",
+    "phone": "+260 977 109 860",
+    "email": "peter.chanda@example.zm",
+    "address": "56 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Margaret Sichone",
+      "relationship": "Child",
+      "phone": "+260 966 466 812"
+    },
+    "medicalConditions": [
+      "Arthritis",
+      "Cholera"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "Madison General Insurance",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Daniel Banda",
+    "registrationDate": "2023-02-25",
+    "admissionDate": "2026-02-01",
+    "assignedDoctor": "STAFF-007",
+    "assignedDoctorName": "Dr. Joyce Lungu",
+    "ward": "ICU",
+    "bedNumber": "ICU-011"
+  },
+  {
+    "id": "PAT-006",
+    "patientNumber": "MS-2024-00006",
+    "firstName": "Martha",
+    "lastName": "Mutale",
+    "fullName": "Martha Mutale",
+    "dateOfBirth": "1969-09-17",
+    "age": 56,
+    "gender": "Female",
+    "bloodType": "A+",
+    "phone": "+260 977 664 641",
+    "email": "martha.mutale@example.zm",
+    "address": "165 Hospital Road, Lusaka",
+    "emergencyContact": {
+      "name": "Beatrice Banda",
+      "relationship": "Parent",
+      "phone": "+260 966 331 935"
+    },
+    "medicalConditions": [
+      "Gastritis",
+      "Arthritis"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "Madison General Insurance",
+    "insuranceNumber": "INS-748367",
+    "nextOfKin": "Elizabeth Mwansa",
+    "registrationDate": "2024-10-11",
+    "admissionDate": "2026-02-08",
+    "assignedDoctor": "STAFF-009",
+    "assignedDoctorName": "Dr. Rebecca Bwalya",
+    "ward": "ICU",
+    "bedNumber": "ICU-002"
+  },
+  {
+    "id": "PAT-007",
+    "patientNumber": "MS-2024-00007",
+    "firstName": "Emmanuel",
+    "lastName": "Phiri",
+    "fullName": "Emmanuel Phiri",
+    "dateOfBirth": "1965-08-21",
+    "age": 60,
+    "gender": "Male",
+    "bloodType": "O-",
+    "phone": "+260 977 827 148",
+    "email": "emmanuel.phiri@example.zm",
+    "address": "47 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Emmanuel Chanda",
+      "relationship": "Spouse",
+      "phone": "+260 966 595 283"
+    },
+    "medicalConditions": [
+      "Pneumonia"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "NHIMA (National Health Insurance)",
+    "insuranceNumber": "INS-314728",
+    "nextOfKin": "Martha Chanda",
+    "registrationDate": "2024-03-04",
+    "admissionDate": "2026-02-09",
+    "assignedDoctor": "STAFF-004",
+    "assignedDoctorName": "Dr. Emmanuel Katongo",
+    "ward": "Maternity",
+    "bedNumber": "MAT-014"
+  },
+  {
+    "id": "PAT-008",
+    "patientNumber": "MS-2024-00008",
+    "firstName": "James",
+    "lastName": "Mwansa",
+    "fullName": "James Mwansa",
+    "dateOfBirth": "1956-12-12",
+    "age": 69,
+    "gender": "Male",
+    "bloodType": "A+",
+    "phone": "+260 977 573 745",
+    "email": "james.mwansa@example.zm",
+    "address": "374 Nationalist Road, Lusaka",
+    "emergencyContact": {
+      "name": "Lucy Musonda",
+      "relationship": "Sibling",
+      "phone": "+260 966 557 269"
+    },
+    "medicalConditions": [
+      "Hypertension"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "NHIMA (National Health Insurance)",
+    "insuranceNumber": "INS-464276",
+    "nextOfKin": "Ruth Mulenga",
+    "registrationDate": "2023-05-26",
+    "admissionDate": "2026-02-10",
+    "assignedDoctor": "STAFF-003",
+    "assignedDoctorName": "Dr. Grace Sichone",
+    "ward": "General Ward",
+    "bedNumber": "GEN-004"
+  },
+  {
+    "id": "PAT-009",
+    "patientNumber": "MS-2024-00009",
+    "firstName": "Patrick",
+    "lastName": "Ngoma",
+    "fullName": "Patrick Ngoma",
+    "dateOfBirth": "1967-07-04",
+    "age": 58,
+    "gender": "Male",
+    "bloodType": "AB+",
+    "phone": "+260 977 515 218",
+    "email": "patrick.ngoma@example.zm",
+    "address": "103 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Daniel Zulu",
+      "relationship": "Child",
+      "phone": "+260 966 850 792"
+    },
+    "medicalConditions": [
+      "Type 2 Diabetes",
+      "Anemia",
+      "Arthritis"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "ZSIC General Insurance",
+    "insuranceNumber": "INS-256705",
+    "nextOfKin": "Rebecca Tembo",
+    "registrationDate": "2024-07-08",
+    "admissionDate": "2026-02-09",
+    "assignedDoctor": "STAFF-010",
+    "assignedDoctorName": "Dr. Martha Mutale",
+    "ward": "Pediatric",
+    "bedNumber": "PED-013"
+  },
+  {
+    "id": "PAT-010",
+    "patientNumber": "MS-2024-00010",
+    "firstName": "Alice",
+    "lastName": "Katongo",
+    "fullName": "Alice Katongo",
+    "dateOfBirth": "1980-12-09",
+    "age": 45,
+    "gender": "Female",
+    "bloodType": "AB-",
+    "phone": "+260 977 462 453",
+    "email": "alice.katongo@example.zm",
+    "address": "486 Cairo Road, Lusaka",
+    "emergencyContact": {
+      "name": "Emmanuel Lungu",
+      "relationship": "Sibling",
+      "phone": "+260 966 319 128"
+    },
+    "medicalConditions": [
+      "Pneumonia",
+      "Hepatitis B"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-449535",
+    "nextOfKin": "Emmanuel Katongo",
+    "registrationDate": "2025-10-19",
+    "admissionDate": "2026-02-11",
+    "assignedDoctor": "STAFF-005",
+    "assignedDoctorName": "Dr. Joyce Bwalya",
+    "ward": "Pediatric",
+    "bedNumber": "PED-006"
+  },
+  {
+    "id": "PAT-011",
+    "patientNumber": "MS-2024-00011",
+    "firstName": "Isaac",
+    "lastName": "Sakala",
+    "fullName": "Isaac Sakala",
+    "dateOfBirth": "1983-06-07",
+    "age": 42,
+    "gender": "Male",
+    "bloodType": "AB+",
+    "phone": "+260 977 683 770",
+    "email": "isaac.sakala@example.zm",
+    "address": "427 Nationalist Road, Lusaka",
+    "emergencyContact": {
+      "name": "Joyce Banda",
+      "relationship": "Spouse",
+      "phone": "+260 966 158 905"
+    },
+    "medicalConditions": [
+      "Hepatitis B",
+      "Anemia"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "Professional Insurance Corporation",
+    "insuranceNumber": "INS-461440",
+    "nextOfKin": "Sarah Phiri",
+    "registrationDate": "2023-04-23",
+    "admissionDate": "2026-02-12",
+    "assignedDoctor": "STAFF-010",
+    "assignedDoctorName": "Dr. Stephen Katongo",
+    "ward": "Maternity",
+    "bedNumber": "MAT-001"
+  },
+  {
+    "id": "PAT-012",
+    "patientNumber": "MS-2024-00012",
+    "firstName": "Beatrice",
+    "lastName": "Mwansa",
+    "fullName": "Beatrice Mwansa",
+    "dateOfBirth": "1965-03-26",
+    "age": 60,
+    "gender": "Female",
+    "bloodType": "AB+",
+    "phone": "+260 977 581 360",
+    "email": "beatrice.mwansa@example.zm",
+    "address": "328 Hospital Road, Lusaka",
+    "emergencyContact": {
+      "name": "Esther Mulenga",
+      "relationship": "Child",
+      "phone": "+260 966 983 770"
+    },
+    "medicalConditions": [
+      "Asthma",
+      "HIV/AIDS"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "patientStatus": "Inpatient",
+    "insuranceProvider": "ZSIC General Insurance",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Joyce Chanda",
+    "registrationDate": "2023-03-06",
+    "admissionDate": "2026-02-03",
+    "assignedDoctor": "STAFF-003",
+    "assignedDoctorName": "Dr. Robert Mwansa",
+    "ward": "ICU",
+    "bedNumber": "ICU-013"
+  },
+  {
+    "id": "PAT-013",
+    "patientNumber": "MS-2024-00013",
+    "firstName": "Joyce",
+    "lastName": "Chanda",
+    "fullName": "Joyce Chanda",
+    "dateOfBirth": "1951-05-11",
+    "age": 74,
+    "gender": "Female",
+    "bloodType": "AB-",
+    "phone": "+260 977 269 833",
+    "email": "joyce.chanda@example.zm",
+    "address": "388 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Alice Lungu",
+      "relationship": "Child",
+      "phone": "+260 966 132 170"
+    },
+    "medicalConditions": [
+      "Tuberculosis",
+      "Gastritis"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "NHIMA (National Health Insurance)",
+    "insuranceNumber": "INS-387519",
+    "nextOfKin": "Patrick Katongo",
+    "registrationDate": "2023-07-08",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-014",
+    "patientNumber": "MS-2024-00014",
+    "firstName": "Sarah",
+    "lastName": "Mulenga",
+    "fullName": "Sarah Mulenga",
+    "dateOfBirth": "1949-10-07",
+    "age": 76,
+    "gender": "Female",
+    "bloodType": "B-",
+    "phone": "+260 977 558 478",
+    "email": "sarah.mulenga@example.zm",
+    "address": "37 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Sarah Mulenga",
+      "relationship": "Child",
+      "phone": "+260 966 595 782"
+    },
+    "medicalConditions": [
+      "Arthritis",
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Alliance Insurance Corporation",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Catherine Mulenga",
+    "registrationDate": "2024-04-19",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-015",
+    "patientNumber": "MS-2024-00015",
+    "firstName": "Emmanuel",
+    "lastName": "Musonda",
+    "fullName": "Emmanuel Musonda",
+    "dateOfBirth": "1981-07-01",
+    "age": 44,
+    "gender": "Male",
+    "bloodType": "B+",
+    "phone": "+260 977 226 304",
+    "email": "emmanuel.musonda@example.zm",
+    "address": "307 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Catherine Bwalya",
+      "relationship": "Sibling",
+      "phone": "+260 966 391 281"
+    },
+    "medicalConditions": [
+      "Hepatitis B",
+      "Pregnancy Care",
+      "Gastritis"
+    ],
+    "allergies": [
+      "Peanuts"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Alliance Insurance Corporation",
+    "insuranceNumber": "INS-360211",
+    "nextOfKin": "Esther Chanda",
+    "registrationDate": "2023-09-06",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-016",
+    "patientNumber": "MS-2024-00016",
+    "firstName": "Patrick",
+    "lastName": "Musonda",
+    "fullName": "Patrick Musonda",
+    "dateOfBirth": "1984-04-16",
+    "age": 41,
+    "gender": "Male",
+    "bloodType": "O-",
+    "phone": "+260 977 453 429",
+    "email": "patrick.musonda@example.zm",
+    "address": "267 Cairo Road, Lusaka",
+    "emergencyContact": {
+      "name": "James Lungu",
+      "relationship": "Spouse",
+      "phone": "+260 966 481 746"
+    },
+    "medicalConditions": [
+      "Cholera",
+      "Meningitis"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "NHIMA (National Health Insurance)",
+    "insuranceNumber": "INS-725272",
+    "nextOfKin": "Catherine Lungu",
+    "registrationDate": "2023-09-02",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-017",
+    "patientNumber": "MS-2024-00017",
+    "firstName": "Beatrice",
+    "lastName": "Sichone",
+    "fullName": "Beatrice Sichone",
+    "dateOfBirth": "2003-09-26",
+    "age": 22,
+    "gender": "Female",
+    "bloodType": "A-",
+    "phone": "+260 977 148 684",
+    "email": "beatrice.sichone@example.zm",
+    "address": "332 Nationalist Road, Lusaka",
+    "emergencyContact": {
+      "name": "Catherine Lungu",
+      "relationship": "Parent",
+      "phone": "+260 966 736 804"
+    },
+    "medicalConditions": [
+      "Hepatitis B"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "NHIMA (National Health Insurance)",
+    "insuranceNumber": "INS-819432",
+    "nextOfKin": "Michael Mulenga",
+    "registrationDate": "2023-08-02",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-018",
+    "patientNumber": "MS-2024-00018",
+    "firstName": "Grace",
+    "lastName": "Musonda",
+    "fullName": "Grace Musonda",
+    "dateOfBirth": "1961-12-23",
+    "age": 64,
+    "gender": "Female",
+    "bloodType": "A-",
+    "phone": "+260 977 748 314",
+    "email": "grace.musonda@example.zm",
+    "address": "144 Cairo Road, Lusaka",
+    "emergencyContact": {
+      "name": "Lucy Chanda",
+      "relationship": "Spouse",
+      "phone": "+260 966 539 564"
+    },
+    "medicalConditions": [
+      "Type 2 Diabetes",
+      "Pregnancy Care"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-523865",
+    "nextOfKin": "Alice Mwansa",
+    "registrationDate": "2023-05-09",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-019",
+    "patientNumber": "MS-2024-00019",
+    "firstName": "Benjamin",
+    "lastName": "Katongo",
+    "fullName": "Benjamin Katongo",
+    "dateOfBirth": "1978-01-03",
+    "age": 48,
+    "gender": "Male",
+    "bloodType": "B+",
+    "phone": "+260 977 611 341",
+    "email": "benjamin.katongo@example.zm",
+    "address": "286 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Lucy Tembo",
+      "relationship": "Spouse",
+      "phone": "+260 966 776 790"
+    },
+    "medicalConditions": [
+      "Typhoid Fever",
+      "Malaria",
+      "HIV/AIDS"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Madison General Insurance",
+    "insuranceNumber": "INS-115901",
+    "nextOfKin": "Emmanuel Ngoma",
+    "registrationDate": "2023-09-05",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-020",
+    "patientNumber": "MS-2024-00020",
+    "firstName": "Stephen",
+    "lastName": "Bwalya",
+    "fullName": "Stephen Bwalya",
+    "dateOfBirth": "1970-12-15",
+    "age": 55,
+    "gender": "Male",
+    "bloodType": "AB+",
+    "phone": "+260 977 325 800",
+    "email": "stephen.bwalya@example.zm",
+    "address": "42 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Rebecca Zulu",
+      "relationship": "Child",
+      "phone": "+260 966 657 877"
+    },
+    "medicalConditions": [
+      "Hepatitis B",
+      "HIV/AIDS",
+      "Cholera"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-502910",
+    "nextOfKin": "Joseph Bwalya",
+    "registrationDate": "2024-04-08",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-021",
+    "patientNumber": "MS-2024-00021",
+    "firstName": "Beatrice",
+    "lastName": "Chanda",
+    "fullName": "Beatrice Chanda",
+    "dateOfBirth": "1958-07-06",
+    "age": 67,
+    "gender": "Female",
+    "bloodType": "O-",
+    "phone": "+260 977 180 932",
+    "email": "beatrice.chanda@example.zm",
+    "address": "57 Hospital Road, Lusaka",
+    "emergencyContact": {
+      "name": "Ruth Mutale",
+      "relationship": "Spouse",
+      "phone": "+260 966 159 738"
+    },
+    "medicalConditions": [
+      "Type 2 Diabetes",
+      "Gastritis",
+      "HIV/AIDS"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Alliance Insurance Corporation",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Isaac Sichone",
+    "registrationDate": "2025-08-28",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-022",
+    "patientNumber": "MS-2024-00022",
+    "firstName": "Martha",
+    "lastName": "Mulenga",
+    "fullName": "Martha Mulenga",
+    "dateOfBirth": "1976-10-24",
+    "age": 49,
+    "gender": "Female",
+    "bloodType": "O+",
+    "phone": "+260 977 428 604",
+    "email": "martha.mulenga@example.zm",
+    "address": "53 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Mary Sichone",
+      "relationship": "Sibling",
+      "phone": "+260 966 980 166"
+    },
+    "medicalConditions": [
+      "Asthma"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Professional Insurance Corporation",
+    "insuranceNumber": "INS-724980",
+    "nextOfKin": "Patrick Banda",
+    "registrationDate": "2025-03-01",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-023",
+    "patientNumber": "MS-2024-00023",
+    "firstName": "Mary",
+    "lastName": "Zulu",
+    "fullName": "Mary Zulu",
+    "dateOfBirth": "1951-03-09",
+    "age": 74,
+    "gender": "Female",
+    "bloodType": "O-",
+    "phone": "+260 977 744 518",
+    "email": "mary.zulu@example.zm",
+    "address": "348 Nationalist Road, Lusaka",
+    "emergencyContact": {
+      "name": "Stephen Banda",
+      "relationship": "Sibling",
+      "phone": "+260 966 729 981"
+    },
+    "medicalConditions": [
+      "Typhoid Fever",
+      "Meningitis",
+      "Pneumonia"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-133844",
+    "nextOfKin": "Peter Bwalya",
+    "registrationDate": "2026-01-13",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-024",
+    "patientNumber": "MS-2024-00024",
+    "firstName": "Benjamin",
+    "lastName": "Musonda",
+    "fullName": "Benjamin Musonda",
+    "dateOfBirth": "2003-07-01",
+    "age": 22,
+    "gender": "Male",
+    "bloodType": "B+",
+    "phone": "+260 977 451 819",
+    "email": "benjamin.musonda@example.zm",
+    "address": "192 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Daniel Lungu",
+      "relationship": "Sibling",
+      "phone": "+260 966 445 777"
+    },
+    "medicalConditions": [
+      "Type 2 Diabetes",
+      "Pneumonia",
+      "Meningitis"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-558830",
+    "nextOfKin": "Lucy Mulenga",
+    "registrationDate": "2025-02-01",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-025",
+    "patientNumber": "MS-2024-00025",
+    "firstName": "Alice",
+    "lastName": "Lungu",
+    "fullName": "Alice Lungu",
+    "dateOfBirth": "1972-09-27",
+    "age": 53,
+    "gender": "Female",
+    "bloodType": "O-",
+    "phone": "+260 977 772 644",
+    "email": "alice.lungu@example.zm",
+    "address": "355 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Emmanuel Tembo",
+      "relationship": "Sibling",
+      "phone": "+260 966 486 274"
+    },
+    "medicalConditions": [
+      "Arthritis"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Professional Insurance Corporation",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Joseph Mulenga",
+    "registrationDate": "2025-02-25",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-026",
+    "patientNumber": "MS-2024-00026",
+    "firstName": "Moses",
+    "lastName": "Sichone",
+    "fullName": "Moses Sichone",
+    "dateOfBirth": "1994-12-24",
+    "age": 31,
+    "gender": "Male",
+    "bloodType": "B-",
+    "phone": "+260 977 471 924",
+    "email": "moses.sichone@example.zm",
+    "address": "164 Hospital Road, Lusaka",
+    "emergencyContact": {
+      "name": "Patrick Sichone",
+      "relationship": "Parent",
+      "phone": "+260 966 538 191"
+    },
+    "medicalConditions": [
+      "Tuberculosis",
+      "Cholera"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Professional Insurance Corporation",
+    "insuranceNumber": "INS-923072",
+    "nextOfKin": "Joyce Banda",
+    "registrationDate": "2024-10-25",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-027",
+    "patientNumber": "MS-2024-00027",
+    "firstName": "Alice",
+    "lastName": "Mwansa",
+    "fullName": "Alice Mwansa",
+    "dateOfBirth": "2011-04-26",
+    "age": 14,
+    "gender": "Female",
+    "bloodType": "A+",
+    "phone": "+260 977 806 593",
+    "email": "alice.mwansa@example.zm",
+    "address": "210 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Lucy Phiri",
+      "relationship": "Parent",
+      "phone": "+260 966 494 477"
+    },
+    "medicalConditions": [
+      "Type 2 Diabetes"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "INS-405502",
+    "nextOfKin": "Isaac Mwansa",
+    "registrationDate": "2025-05-23",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-028",
+    "patientNumber": "MS-2024-00028",
+    "firstName": "Martha",
+    "lastName": "Katongo",
+    "fullName": "Martha Katongo",
+    "dateOfBirth": "1957-03-20",
+    "age": 68,
+    "gender": "Female",
+    "bloodType": "A-",
+    "phone": "+260 977 101 184",
+    "email": "martha.katongo@example.zm",
+    "address": "85 Main Road, Lusaka",
+    "emergencyContact": {
+      "name": "Emmanuel Mwansa",
+      "relationship": "Spouse",
+      "phone": "+260 966 472 316"
+    },
+    "medicalConditions": [
+      "Meningitis",
+      "Hepatitis B",
+      "Typhoid Fever"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Self-Pay",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Agnes Mulenga",
+    "registrationDate": "2025-02-13",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-029",
+    "patientNumber": "MS-2024-00029",
+    "firstName": "Samuel",
+    "lastName": "Sichone",
+    "fullName": "Samuel Sichone",
+    "dateOfBirth": "1971-12-02",
+    "age": 54,
+    "gender": "Male",
+    "bloodType": "AB+",
+    "phone": "+260 977 987 886",
+    "email": "samuel.sichone@example.zm",
+    "address": "34 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Catherine Lungu",
+      "relationship": "Parent",
+      "phone": "+260 966 118 406"
+    },
+    "medicalConditions": [
+      "Pneumonia",
+      "Hepatitis B",
+      "Typhoid Fever"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "Professional Insurance Corporation",
+    "insuranceNumber": "N/A",
+    "nextOfKin": "Isaac Chanda",
+    "registrationDate": "2024-01-09",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  },
+  {
+    "id": "PAT-030",
+    "patientNumber": "MS-2024-00030",
+    "firstName": "David",
+    "lastName": "Mwansa",
+    "fullName": "David Mwansa",
+    "dateOfBirth": "1952-09-26",
+    "age": 73,
+    "gender": "Male",
+    "bloodType": "AB-",
+    "phone": "+260 977 305 990",
+    "email": "david.mwansa@example.zm",
+    "address": "350 Independence Road, Lusaka",
+    "emergencyContact": {
+      "name": "Emmanuel Ngoma",
+      "relationship": "Child",
+      "phone": "+260 966 483 915"
+    },
+    "medicalConditions": [
+      "HIV/AIDS"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "patientStatus": "Outpatient",
+    "insuranceProvider": "ZSIC General Insurance",
+    "insuranceNumber": "INS-689524",
+    "nextOfKin": "Mary Mulenga",
+    "registrationDate": "2024-12-18",
+    "admissionDate": null,
+    "assignedDoctor": null,
+    "assignedDoctorName": null,
+    "ward": null,
+    "bedNumber": null
+  }
+]

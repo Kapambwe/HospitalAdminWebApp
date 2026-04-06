@@ -1,0 +1,12 @@
+{
+  "name": "Cape Town Private Clinic",
+  "type": "Private Clinic",
+  "country": "South Africa",
+  "city": "Cape Town",
+  "address": "Sea Point, Main Road 123, Cape Town, South Africa",
+  "phone": "+27-21-434-5000",
+  "email": "info@capetownprivate.za",
+  "capacity": 120,
+  "established": 2005,
+  "description": "An upscale private clinic offering premium healthcare services with personalized care, advanced diagnostic facilities, and specialist consultations in a comfortable environment."
+}

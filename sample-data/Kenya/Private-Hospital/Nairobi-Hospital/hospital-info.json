@@ -1,0 +1,9 @@
+{
+  "name": "Nairobi Hospital",
+  "type": "Private Hospital",
+  "country": "Kenya",
+  "address": "Argwings Kodhek Road, Nairobi, Kenya",
+  "phone": "+254-20-2845000",
+  "capacity": 250,
+  "established": 1954
+}

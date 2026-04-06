@@ -1,0 +1,9 @@
+{
+  "name": "Groote Schuur Hospital",
+  "type": "University Teaching Hospital",
+  "country": "South Africa",
+  "address": "Main Road, Observatory, Cape Town, South Africa",
+  "phone": "+27-21-404-9111",
+  "capacity": 900,
+  "established": 1938
+}

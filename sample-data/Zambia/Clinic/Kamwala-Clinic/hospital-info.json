@@ -1,0 +1,9 @@
+{
+  "name": "Kamwala Clinic",
+  "type": "Clinic",
+  "country": "Zambia",
+  "address": "Kamwala Shopping Centre, Lusaka, Zambia",
+  "phone": "+260-211-223344",
+  "capacity": 30,
+  "established": 2005
+}

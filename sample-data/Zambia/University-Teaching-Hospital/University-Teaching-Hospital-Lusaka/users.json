@@ -1,0 +1,37 @@
+[
+  {
+    "username": "admin.uth",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Prof. James Sakala",
+    "email": "james.sakala@uth.zm"
+  },
+  {
+    "username": "doctor.uth",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Grace Zulu",
+    "email": "grace.zulu@uth.zm"
+  },
+  {
+    "username": "nurse.uth",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Catherine Mulenga",
+    "email": "catherine.mulenga@uth.zm"
+  },
+  {
+    "username": "resident.uth",
+    "password": "Resident123!",
+    "role": "Resident",
+    "fullName": "Dr. Moses Chanda",
+    "email": "moses.chanda@uth.zm"
+  },
+  {
+    "username": "pharmacist.uth",
+    "password": "Pharma123!",
+    "role": "Pharmacist",
+    "fullName": "Alice Katongo",
+    "email": "alice.katongo@uth.zm"
+  }
+]

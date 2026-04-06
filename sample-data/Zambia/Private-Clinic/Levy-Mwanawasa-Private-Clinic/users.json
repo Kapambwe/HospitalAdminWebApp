@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin.lmpc",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. Emmanuel Ngoma",
+    "email": "emmanuel.ngoma@lmpc.zm"
+  },
+  {
+    "username": "doctor.lmpc",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Beatrice Sichone",
+    "email": "beatrice.sichone@lmpc.zm"
+  },
+  {
+    "username": "nurse.lmpc",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Prisca Mwanza",
+    "email": "prisca.mwanza@lmpc.zm"
+  },
+  {
+    "username": "receptionist.lmpc",
+    "password": "Recep123!",
+    "role": "Receptionist",
+    "fullName": "Angela Phiri",
+    "email": "angela.phiri@lmpc.zm"
+  }
+]

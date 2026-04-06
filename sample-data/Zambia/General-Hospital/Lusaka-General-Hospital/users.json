@@ -1,0 +1,37 @@
+[
+  {
+    "username": "admin.lgh",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. Charles Mulenga",
+    "email": "charles.mulenga@lgh.zm"
+  },
+  {
+    "username": "doctor.lgh",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Patricia Chanda",
+    "email": "patricia.chanda@lgh.zm"
+  },
+  {
+    "username": "nurse.lgh",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Florence Kasonde",
+    "email": "florence.kasonde@lgh.zm"
+  },
+  {
+    "username": "pharmacist.lgh",
+    "password": "Pharma123!",
+    "role": "Pharmacist",
+    "fullName": "Daniel Musonda",
+    "email": "daniel.musonda@lgh.zm"
+  },
+  {
+    "username": "lab.lgh",
+    "password": "Lab123!",
+    "role": "Laboratory Technician",
+    "fullName": "Ruth Bwalya",
+    "email": "ruth.bwalya@lgh.zm"
+  }
+]

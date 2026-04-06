@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin.ctpc",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. Michael van der Merwe",
+    "email": "michael.vandermerwe@ctpc.za"
+  },
+  {
+    "username": "doctor.ctpc",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Lerato Molefe",
+    "email": "lerato.molefe@ctpc.za"
+  },
+  {
+    "username": "nurse.ctpc",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Thandi Nkosi",
+    "email": "thandi.nkosi@ctpc.za"
+  },
+  {
+    "username": "specialist.ctpc",
+    "password": "Spec123!",
+    "role": "Specialist",
+    "fullName": "Dr. Pieter Botha",
+    "email": "pieter.botha@ctpc.za"
+  }
+]

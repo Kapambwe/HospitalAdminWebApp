@@ -1,0 +1,37 @@
+[
+  {
+    "username": "admin.kgh",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. Joseph Kariuki",
+    "email": "joseph.kariuki@kgh.ke"
+  },
+  {
+    "username": "doctor.kgh",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Esther Wambui",
+    "email": "esther.wambui@kgh.ke"
+  },
+  {
+    "username": "nurse.kgh",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Margaret Njeri",
+    "email": "margaret.njeri@kgh.ke"
+  },
+  {
+    "username": "pharmacist.kgh",
+    "password": "Pharma123!",
+    "role": "Pharmacist",
+    "fullName": "Samuel Otieno",
+    "email": "samuel.otieno@kgh.ke"
+  },
+  {
+    "username": "resident.kgh",
+    "password": "Resident123!",
+    "role": "Resident",
+    "fullName": "Dr. Grace Mutua",
+    "email": "grace.mutua@kgh.ke"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin.nbi",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. David Kimani",
+    "email": "david.kimani@nairobihospital.ke"
+  },
+  {
+    "username": "doctor.nbi",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Mary Wanjiku",
+    "email": "mary.wanjiku@nairobihospital.ke"
+  },
+  {
+    "username": "nurse.nbi",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Jane Akinyi",
+    "email": "jane.akinyi@nairobihospital.ke"
+  },
+  {
+    "username": "pharmacist.nbi",
+    "password": "Pharma123!",
+    "role": "Pharmacist",
+    "fullName": "Peter Omondi",
+    "email": "peter.omondi@nairobihospital.ke"
+  }
+]

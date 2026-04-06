@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin.zm",
+    "password": "Admin123!",
+    "role": "Administrator",
+    "fullName": "Dr. John Mwansa",
+    "email": "john.mwansa@mainasoko.zm"
+  },
+  {
+    "username": "doctor.zm",
+    "password": "Doctor123!",
+    "role": "Doctor",
+    "fullName": "Dr. Sarah Banda",
+    "email": "sarah.banda@mainasoko.zm"
+  },
+  {
+    "username": "nurse.zm",
+    "password": "Nurse123!",
+    "role": "Nurse",
+    "fullName": "Mercy Phiri",
+    "email": "mercy.phiri@mainasoko.zm"
+  },
+  {
+    "username": "pharmacist.zm",
+    "password": "Pharma123!",
+    "role": "Pharmacist",
+    "fullName": "Patrick Lungu",
+    "email": "patrick.lungu@mainasoko.zm"
+  }
+]
